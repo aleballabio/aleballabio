@@ -11,9 +11,9 @@ Currently studying for the eJPT certification. Based in Naples, Italy.
 - 🐧 OverTheWire Bandit wargame (not started)
 
 ## Where to find me
-- 📝 Blog with my CTF writeups → [link]
-- 🟢 TryHackMe → tryhackme.com/p/aleballabio05
-- 💼 LinkedIn → linkedin.com/in/alessandroballabio
+- 📝 [Blog with my CTF writeups]()
+- 🟢 [TryHackMe](https://tryhackme.com/p/aleballabio))
+- 💼 [LinkedIn](linkedin.com/in/alessandroballabio)
 
 ## Tech I work with
 - Python
