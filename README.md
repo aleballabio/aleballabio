@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alessandro 👋
 
-<!--
-**aleballabio/aleballabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at OPIT (Year 2). Aspiring penetration tester — generalist track, working toward OSCP.
+Currently studying for the eJPT certification. Based in Naples, Italy.
 
-Here are some ideas to get you started:
+## What I'm working on
+-🎓 BSc Computer Science at OPIT (Year 2 starts Sept 2026)
+-🛡️ TryHackMe CyberSecurity 101 Path
+-🌐 PortSwigger Web Security Academy — Apprentice labs
+-🐧 OverTheWire Bandit wargame (not started)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+-📝 Blog with my CTF writeups → [link]
+-🟢 TryHackMe → tryhackme.com/p/aleballabio05
+-💼 LinkedIn → linkedin.com/in/alessandroballabio
+
+## Tech I work with
+- Python
+- C/C++
+- Kali Linux
+- Bash
+- Burp Suite
+- Nmap
+- SQL
