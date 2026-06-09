@@ -12,8 +12,8 @@ Currently studying for the eJPT certification. Based in Naples, Italy.
 
 ## Where to find me
 - 📝 [Blog with my CTF writeups]()
-- 🟢 [TryHackMe](https://tryhackme.com/p/aleballabio))
-- 💼 [LinkedIn](linkedin.com/in/alessandroballabio)
+- 🟢 [TryHackMe](https://tryhackme.com/p/aleballabio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandroballabio/)
 
 ## Tech I work with
 - Python
