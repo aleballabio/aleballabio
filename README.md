@@ -1,17 +1,14 @@
 # Hi, I'm Alessandro 👋
 
-CS student at OPIT (Year 2)
-Aspiring penetration tester — generalist track, working toward OSCP.
+CS student at OPIT (Year 2) and aspiring penetration tester, working toward OSCP.
 Currently studying for the eJPT certification. Based in Naples, Italy.
 
 ## What I'm working on
-- 🎓 BSc Computer Science at OPIT (Year 2 starts Sept 2026)
+- 🎓 BSc Computer Science at OPIT (Year 2)
 - 🛡️ TryHackMe CyberSecurity 101 Path
-- 🌐 PortSwigger Web Security Academy — Apprentice labs
-- 🐧 OverTheWire Bandit wargame (not started)
+- 🌐 PortSwigger Web Security Academy (Apprentice labs)
 
 ## Where to find me
-- 📝 [Blog with my CTF writeups](https://aleballabio.github.io/)
 - 🟢 [TryHackMe](https://tryhackme.com/p/aleballabio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandroballabio/)
 
