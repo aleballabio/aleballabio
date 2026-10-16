@@ -1,7 +1,7 @@
 # Hi, I'm Alessandro 👋
 
-CS student at OPIT (Year 2) focused on cybersecurity and penetration testing, working toward OSCP.
-Currently studying for the eJPT certification. Based in Naples, Italy.
+CS student at OPIT (Year 2) focused on cybersecurity and penetration testing.
+Working toward the TryHackMe PT1 certification, then HTB CPTS. Based in Naples, Italy.
 
 ## What I'm working on
 - 🎓 BSc Computer Science at OPIT (Year 2)
