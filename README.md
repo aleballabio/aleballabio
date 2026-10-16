@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro 👋
 
-CS student at OPIT (Year 2) and aspiring penetration tester, working toward OSCP.
+CS student at OPIT (Year 2) focused on cybersecurity and penetration testing, working toward OSCP.
 Currently studying for the eJPT certification. Based in Naples, Italy.
 
 ## What I'm working on
